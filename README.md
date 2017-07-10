@@ -1,8 +1,9 @@
 # First-ML-project
-Introduction to Machine Learning
+## Introduction to Machine Learning
 
 # install anaconda (if needed)
-
+##
+```
 conda create -n MlVirtEnv python=3.6
 
 source activate MlVirtEnv
@@ -12,6 +13,7 @@ conda install ipython
 conda install jupyter
 
 python -m ipykernel install --user --name MlVirtEnv
+```
 
 ## install pytorch
 ## visit pytorch.org
