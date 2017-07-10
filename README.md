@@ -6,9 +6,9 @@
 https://www.continuum.io/downloads
 ```
 
-```
-Installation Instructions
 
+## Installation Instructions
+```
 conda create -n MlVirtEnv python=3.6
 
 source activate MlVirtEnv
