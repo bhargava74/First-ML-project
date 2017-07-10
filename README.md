@@ -2,6 +2,9 @@
 ## Introduction to Machine Learning
 
 ## install anaconda (if needed)
+```
+https://www.continuum.io/downloads
+```
 
 ```
 Installation Instructions
